@@ -1,0 +1,9 @@
+||x.com^
+||twitter.com^
+||t.co^
+||twimg.com^
+||api.x.com^
+||mobile.twitter.com^
+||pbs.twimg.com^
+||video.twimg.com^
+||abs.twimg.com^
