@@ -7,3 +7,9 @@
 ||pbs.twimg.com^
 ||video.twimg.com^
 ||abs.twimg.com^
+||x.com^
+||*.x.com^
+||twitter.com^
+||*.twitter.com^
+||twimg.com^
+||*.twimg.com^
